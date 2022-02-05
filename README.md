@@ -6,7 +6,7 @@ O controle de tarefas ja esta sendo realizadas no Github
 
 ## Icones
 
-:pacakage: nova Funcionalida
-:up: atualização
-  :beatle: Correção de Bug
+📦: Novas Funcionalidades
+🆙:Atualizações
+✍️Correção de Bug
 🏁:release 
