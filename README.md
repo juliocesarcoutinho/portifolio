@@ -8,5 +8,5 @@ O controle de tarefas ja esta sendo realizadas no Github
 
 :pacakage: nova Funcionalida
 :up: atualização
-:beatle: Correção de Bug
-checkered_flag: release
+  :beatle: Correção de Bug
+🏁:release 
