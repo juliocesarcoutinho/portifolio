@@ -10,5 +10,5 @@ O controle de tarefas ja esta sendo realizadas no Github
 
 📦 Nova Funcionalida
 🆙 atualização
-🪲 Correção de Bug
+� Correção de Bug
 🏁: release
