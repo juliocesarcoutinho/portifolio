@@ -4,7 +4,7 @@ Portifolio Top one
 
 ## Tarefas
 
-O controle de tarefas ja esta sendo realizadas no Github
+As tarefas esta sendo realizadas no Github
 
 ## Icones
 
